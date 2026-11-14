@@ -66,3 +66,5 @@ iyf-s12-week-07-carlosadenge/
 ├── package.json
 
 └── README.md
+
+- **PR I opened:** https://github.com/carlosadenge/iyf-s12-week-07-carlosadenge/pulls?q=is%3Apr+state%3Aclosed
