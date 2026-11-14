@@ -8,7 +8,7 @@
 [View Shopping Cart](https://carlosadenge.github.io/iyf-s12-week-07-carlosadenge/cart/)
 
 ## About This Project
-This is my Week 7 project for the IYF Weekend Academy Season 12.  
+This is my Week 7 project for the IYF Wecan Academy 
 I refactored my Week 5 To-Do List into clean modules, added localStorage persistence, ESLint, Prettier, and unit tests.  
 I also built a Shopping Cart that uses the same state + persistence pattern.
 
